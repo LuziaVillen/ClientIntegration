@@ -15,6 +15,8 @@
   https://www.nuget.org/packages/Microsoft.VisualBasic/10.3.0 | Microsoft VisualBasic
   https://www.nuget.org/packages/System.Runtime.InteropServices/4.3.0 | InteropServices
 
+  If there's errors like, 'Devices, CmlLib, Shell32, Shell'.
+
 # Editing
 
   You will change '.luzia' to your games location. If you're using default change it to '.minecraft'
