@@ -23,7 +23,7 @@
 
   You will change '.luzia' to your games location. If you're using default change it to '.minecraft'
   
-  Also you will change 'Rod Client' to your clients name. Example, '1.16.5-Optifine-HD-U8'.
+  Also you will change 'Rod Client' to your clients name. Example, '1.16.5-Optifine-HD-U-G8'.
 
 
 
