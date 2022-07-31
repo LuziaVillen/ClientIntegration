@@ -30,7 +30,7 @@ namespace ClientIntegration
         private static int height2;
 
         string templocation = "c:\\temp\\";
-        string mclocation = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), ".luzia/versions/LuziaOptifine");
+        string mclocation = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), ".luzia/versions/Rod Client");
 
 
         private void Form2_Load(object sender, EventArgs e)
