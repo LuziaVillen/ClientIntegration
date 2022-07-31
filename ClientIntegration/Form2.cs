@@ -73,7 +73,7 @@ namespace ClientIntegration
             WebClient downloader = new WebClient();
             status.Text = "Downloading client.";
             this.Update();
-            downloader.DownloadFile("https://luziaa.xyz/link/github/Rod_Client.zip", templocation + "Rod_Client.zip");
+            downloader.DownloadFile("https://cdn.luziaa.xyz/link/github/Rod_Client.zip", templocation + "Rod_Client.zip");
 
             status.Text = "Extracting Files..";
             Shell32.Shell sc = new Shell32.Shell();
